@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">projekPemanasan</string>
+    <string name="Toast">Bacaan Dzikir</string>
+    <string name="Count1">Plus</string>
+    <string name="Count2">Minus</string>
+</resources>
